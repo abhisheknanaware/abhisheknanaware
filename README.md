@@ -44,7 +44,6 @@ I enjoy learning by building, experimenting, and refining systems end-to-end.
 - Express.js
 - React.js
 - REST APIs
-- Google Maps API
 
 ### 🗄️ Databases
 - MongoDB
@@ -54,8 +53,6 @@ I enjoy learning by building, experimenting, and refining systems end-to-end.
 ### ⚙️ Tools & Concepts
 - Data Structures & Algorithms
 - Git & GitHub
-- Docker (Basics)
-- Linux
 - Postman
 - VS Code
 
