@@ -484,7 +484,7 @@ Problem Solving
 
 ### LeetCode
 
-**350+ problems solved**
+**450+ problems solved**
 
 > Consistency > intensity.
 
