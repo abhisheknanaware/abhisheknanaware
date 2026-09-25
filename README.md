@@ -1,81 +1,74 @@
 <div align="center">
 
-# 👋 Hey, I'm Abhishek
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Abhishek%20Nanaware&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20GENAI%20%7C%20FULL%20STACK&descAlignY=62&descSize=17"/>
 
-### `AI/ML • GenAI • Full Stack • DSA`
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Turning+ideas+into+AI-powered+products.;Learning+something+new+every+day.;Code+%7C+Models+%7C+Systems+%7C+Ideas" />
+<div align="center">
 
-<br>
+### `Building intelligent systems, one commit at a time.`
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Developer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;GenAI+%26+AI+Agents+Explorer+%F0%9F%A7%A0;DSA+Problem+Solver+%F0%9F%94%A5;Turning+ideas+into+working+systems+%F0%9F%9A%80"/>
+
+<br/><br/>
+
+<a href="https://github.com/abhisheknanaware">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/abhishek-nanaware-a6348632b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/abhisheknanaware">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
----
-
-## `whoami`
-
-```text
-Abhishek Nanaware
-────────────────────────────────────────────
-
-🎓  CSE — Artificial Intelligence & Machine Learning
-
-🧠  I like:
-    AI • Machine Learning • GenAI • DSA
-    Full Stack • Automation • Real-world problems
-
-⚡  Currently:
-    Building → Learning → Experimenting
-
-🔭  Exploring:
-    LLMs • Agents • RAG • LangGraph • MCP
-```
+<br/>
 
 ---
 
-## ⚙️ `what I build`
+## `01 / ABOUT`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### 🤖 AI / ML
+```text
+$ whoami
 
-I build models and applications around:
+Abhishek Nanaware
+──────────────────────────────
 
-* Machine Learning
-* Deep Learning
-* NLP
-* Computer Vision
-* Time Series
-* TinyML
-* LLM Applications
+🎓  CSE — Artificial Intelligence
+    & Machine Learning
+
+📍  Pune, India
+
+🧠  AI / ML
+🤖  Generative AI
+🌐  Full Stack
+⚡  DSA
+
+Currently exploring
+→ AI Agents
+→ RAG
+→ LangGraph
+→ MCP
+→ LLM Applications
+```
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### 🌐 Software
+### `The idea`
 
-I build products using:
+I like building software where **AI isn't just a feature — it's part of the system.**
 
-* React
-* Node.js
-* Express
-* MongoDB
-* REST APIs
-* Streamlit
-* Python
+From ML prediction systems to **agentic workflows, RAG pipelines and developer tools**, I enjoy turning technical ideas into things people can actually use.
 
 </td>
 </tr>
@@ -83,188 +76,346 @@ I build products using:
 
 ---
 
-# 🚀 `projects`
+# `02 / TECHNOLOGIES`
 
-### 🧭 CareerMap
+<div align="center">
 
-**A full-stack job platform**
+### `LANGUAGES`
 
-`React` `Node.js` `Express` `MongoDB`
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 
-> Helping candidates discover opportunities and recruiters manage hiring.
+<br/><br/>
 
----
+### `AI / MACHINE LEARNING`
 
-### 🧠 Personal Finance AI
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 
-**An agentic AI assistant**
+<br/><br/>
 
-`LangGraph` `LangChain` `MCP` `LLM`
+`Machine Learning`  • 
+`Deep Learning`  • 
+`NLP`  • 
+`LSTM`  • 
+`Model Training`  • 
+`Model Evaluation`
 
-> Tools + agents + workflows for smarter financial assistance.
+<br/><br/>
 
----
+### `GENERATIVE AI`
 
-### 🌫️ AQI × Traffic
+`LangChain`  • 
+`LangGraph`  • 
+`OpenAI`  • 
+`MCP`  • 
+`RAG`  • 
+`Pinecone`  • 
+`AI Agents`
 
-**AI-powered prediction system**
+<br/><br/>
 
-`Python` `TensorFlow` `LSTM` `MongoDB`
+### `FULL STACK`
 
-> Predicting air quality and traffic conditions using real-world data.
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,mysql,tailwind,redux" />
 
----
+<br/><br/>
 
-### 🗑️ TinyML Smart Dustbin
-
-**Computer vision on the edge**
-
-`MobileNetV2` `TensorFlow Lite` `ESP32`
-
-> Taking ML from the cloud and putting it on a tiny device.
-
----
-
-### 🎫 Ticket Priority AI
-
-**Support ticket classification**
-
-`XGBoost` `Scikit-learn` `Streamlit`
-
-> Turning messy support data into actionable priority predictions.
-
----
-
-## 🧩 `my stack`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,html,css" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,tailwind,redux" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
-
-<br><br>
+### `TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 
-</p>
+<br/>
+
+`Clerk`  • 
+`JWT`  • 
+`Cloudinary`  • 
+`Google Maps API`  • 
+`REST APIs`
+
+</div>
 
 ---
 
-## 🧠 `currently.exe`
+# `03 / THINGS I'VE BUILT`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 GitHub Issue Solver
+
+**AI developer tool**
+
+`OpenAI` `Pinecone` `RAG`
+
+An AI-powered system that analyzes GitHub issues and codebases to help developers understand problems and generate targeted solutions.
+
+**→ Semantic code search**
+**→ Codebase indexing**
+**→ GitHub API**
+**→ AI-powered solutions**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Assistant
+
+**LangGraph × MCP**
+
+`LangGraph` `LangChain` `MCP`
+
+Agentic assistant built around stateful conversations, multi-step reasoning and external tools.
+
+**→ Gmail**
+**→ Google Drive**
+**→ Google Calendar**
+**→ Web Search**
+**→ Custom tools**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌫️ AQI × Traffic
+
+**Hybrid AI/ML System**
+
+`LSTM` `ML` `Express` `MongoDB`
+
+Predicting AQI and traffic density using real environmental data and location-based visualization.
+
+**→ PM2.5 / PM10 / CO**
+**→ Temperature / Humidity**
+**→ LSTM prediction**
+**→ Google Maps**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 StudyStash
+
+**Student Management Portal**
+
+`React` `Redux` `Express` `MongoDB`
+
+A MERN application for academic workflows.
+
+**→ Assignments**
+**→ Leave management**
+**→ Attendance**
+**→ Teacher dashboard**
+**→ OAuth + JWT**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 CareerMap
+
+**Job Platform**
+
+`React` `Node` `Express` `MongoDB`
+
+Full-stack platform connecting candidates and recruiters.
+
+**→ Job search**
+**→ Applications**
+**→ Recruiter dashboard**
+**→ Cloudinary**
+**→ Authentication**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Property Platform
+
+**Full-Stack Web App**
+
+`Express` `MongoDB`
+
+Property rental platform with authentication, authorization and role-based functionality.
+
+**→ Property listings**
+**→ Favorites**
+**→ Host management**
+**→ Sessions**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `04 / HOW I THINK`
+
+<div align="center">
 
 ```text
-[████████████████████████████████] 100%
-
-Learning
-    │
-    ├── LangGraph
-    ├── RAG
-    ├── MCP
-    ├── AI Agents
-    └── System Design
-
-Building
-    │
-    ├── AI applications
-    ├── ML systems
-    └── Full-stack products
-
-Improving
-    │
-    ├── DSA
-    ├── C++
-    └── Software Engineering
+                 ┌──────────────┐
+                 │    PROBLEM   │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │  UNDERSTAND  │
+                 └──────┬───────┘
+                        ↓
+              ┌─────────────────────┐
+              │     BUILD           │
+              │                     │
+              │  ML / AI / WEB      │
+              └─────────┬───────────┘
+                        ↓
+                 ┌──────────────┐
+                 │    DEBUG     │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │   OPTIMIZE   │
+                 └──────┬───────┘
+                        ↓
+                 ┌──────────────┐
+                 │    SHIP 🚀   │
+                 └──────────────┘
 ```
+
+</div>
 
 ---
 
-## 💻 `when I'm not building`
+# `05 / DSA`
+
+<div align="center">
+
+### `400+ PROBLEMS SOLVED`
+
+</div>
 
 ```text
-LeetCode
-   ↓
-Problem
-   ↓
-"Easy?"
-   ↓
-Absolutely not.
-   ↓
-Debug for 2 hours
-   ↓
-Accepted ✅
+Arrays          ████████████████████
+Strings         █████████████████
+Graphs          ██████████████████
+Trees           ████████████████
+Dynamic Prog.   ███████████████
+Binary Search   ██████████████
+DSU / Graph     █████████████
 ```
 
-### 🧩 DSA
-
-`Arrays` `Hashing` `Sliding Window` `Binary Search`
-`Trees` `Graphs` `BFS` `DFS` `DSU` `Dijkstra`
-`Kruskal` `DP` `Tries` `Greedy`
+`C++`  •  `Problem Solving`  •  `Optimization`  •  `Complexity Analysis`
 
 ---
 
-## 🏆 `some checkpoints`
+# `06 / CURRENTLY BUILDING`
+
+<div align="center">
 
 ```text
-🏆  BruteForge                  → Winner
-🚀  PCET BlueBit               → Finalist
-🤖  PCCOE IGC                  → Round 2
-💼  Java Development           → Internship
-🌐  Web Development            → Internship
+          ┌─────────────────────┐
+          │     GENERATIVE AI   │
+          └──────────┬──────────┘
+                     ↓
+              ┌──────────────┐
+              │  AI AGENTS   │
+              └──────┬───────┘
+                     ↓
+          ┌─────────────────────┐
+          │      LANGGRAPH      │
+          └──────────┬──────────┘
+                     ↓
+               ┌──────────┐
+               │   RAG    │
+               └────┬─────┘
+                    ↓
+               ┌──────────┐
+               │   MCP    │
+               └────┬─────┘
+                    ↓
+          ┌─────────────────────┐
+          │  REAL APPLICATIONS  │
+          └─────────────────────┘
 ```
 
----
-
-## 📊 `github`
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 `achievements`
+# `07 / ACHIEVEMENTS`
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+🏆 **BRUTEFORGE — WINNER**
 
-</p>
+`PCCOE ITSA`
+
+   
+
+🥈 **PCET BLUEBIT — FINALIST**
+
+   
+
+🚀 **PCCOE IGC — ROUND 2**
+
+   
+
+💻 **400+ LEETCODE**
+
+</div>
 
 ---
 
-## 📈 `activity`
+# `08 / GITHUB`
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhisheknanaware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="175"/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknanaware&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=abhisheknanaware&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# `09 / TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhisheknanaware&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# `10 / ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheknanaware&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### `> build something. learn something. repeat.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 
-<br>
+### `Build → Break → Learn → Repeat`
 
-**Thanks for visiting 👋**
+**Thanks for visiting my corner of GitHub.**
 
 </div>
