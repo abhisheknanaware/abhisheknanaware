@@ -22,13 +22,13 @@
 ```text
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
-│   👨‍💻  CSE — Artificial Intelligence & Machine Learning      │
+│     CSE — Artificial Intelligence & Machine Learning          │
 │                                                               │
-│   I build things at the intersection of                      │
+│   I build things at the intersection of                       │
 │                                                               │
-│      AI/ML  ×  GenAI  ×  Full Stack  ×  DSA                 │
+│      AI/ML  ×  GenAI  ×  Full Stack  ×  DSA                   │
 │                                                               │
-│   From training ML models → building APIs                    │
+│   From training ML models → building APIs                     │
 │   → designing React interfaces → deploying AI agents.         │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
