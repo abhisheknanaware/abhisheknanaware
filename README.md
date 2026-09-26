@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abhisheknanaware)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-nanaware-7020173a0)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/abhishekh1234)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/abhishekh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhishekhnanaware9099@gmail.com)
 
 </div>
@@ -532,7 +532,7 @@ If you're building something interesting around **AI, GenAI, ML, Full Stack or D
 
 [![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge\&logo=github)](https://github.com/abhisheknanaware)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abhishek-nanaware-7020173a0)
-[![LeetCode](https://img.shields.io/badge/Code-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/abhishekh1234)
+[![LeetCode](https://img.shields.io/badge/Code-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/abhishekh)
 
 </div>
 
